@@ -2,7 +2,7 @@
 #Overview:
 A Python-based command-line tool designed to help users keep track of their expenses on a daily, monthly, or yearly basis. Users can record, modify, or remove expenses, check total expenditures, and categorize them efficiently. The application ensures data persistence by storing all records in a JSON file.# Personal Expense Tracker (Python CLI)
 
-## Description:
+# Description:
 A command-line Python application that helps users track their daily, monthly, or yearly expenses. Users can add, update, or delete expenses, view total expenses, and categorize them. The app stores the data in a JSON file to persist expenses between sessions.
 
 ## Features:

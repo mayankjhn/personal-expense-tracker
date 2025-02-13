@@ -23,7 +23,7 @@ A command-line Python application that helps users track their daily, monthly, o
    `python expense_tracker.py`
 4. Follow the on-screen instructions to add/view expenses.
 
-## Technologies Used:
+# Technologies Used:
 - Python
 - JSON for data storage
 

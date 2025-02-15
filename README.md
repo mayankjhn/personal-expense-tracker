@@ -15,7 +15,7 @@ A command-line Python application that helps users track their daily, monthly, o
 ## Requirements:
 - Python 3.x
 
-## How to Use:
+# How to Use:
 1. Clone this repository:  
    `git clone https://github.com/your-username/personal-expense-tracker.git`
 2. Install Python (if not already installed).

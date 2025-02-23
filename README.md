@@ -1,4 +1,4 @@
-##Personal Budget Manager (Python CLI)
+#Personal Budget Manager (Python CLI)
 #Overview:
 A Python-based command-line tool designed to help users keep track of their expenses on a daily, monthly, or yearly basis. Users can record, modify, or remove expenses, check total expenditures, and categorize them efficiently. The application ensures data persistence by storing all records in a JSON file.# Personal Expense Tracker (Python CLI)
 
